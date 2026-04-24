@@ -3,4 +3,5 @@
 *.db
 *.db-wal
 *.db-shm
-**/*.rs.bk
+**/*.rs.bk.idea/
+.idea/
